@@ -1,6 +1,6 @@
 <h1 align="center"> [HANTER-XD OFFICIAL]</h1>
 
-<h2 align="center"> [SECURITY MARSHAL TOOLS] </h2>
+<h2 align="center">[SECURITY MARSHAL TOOLS] </h2>
 
 ```
 apt update -y;apt upgrade -y;pkg install python -y;pkg install git -y;pip install requests
